@@ -1129,6 +1129,7 @@
 
 		<!-- Kotlin - https://kotlinlang.org/ -->
 		<kotlin.version>1.4.0-rc</kotlin.version><!-- NB: kotlin.version is also defined in pom-scijava-base. -->
+		<kotlinx-coroutines-core.version>1.3.8-1.4.0-rc</kotlinx-coroutines-core.version>
 
 		<kotlin-compiler-embeddable.version>${kotlin.version}</kotlin-compiler-embeddable.version>
 		<kotlin-daemon-embeddable.version>${kotlin.version}</kotlin-daemon-embeddable.version>
